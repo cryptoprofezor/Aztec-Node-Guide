@@ -195,7 +195,7 @@ aztec add-l1-validator \
 
 ## 📬 Community & Help
 
-- 📣 Telegram: [t.me/Mrcrypto_tamilan]
+- 📣 Telegram: [@Mrcrypto_Tamilan](https://t.me/Mrcrypto_tamilan)
 - 🐛 Raise a GitHub issue if you need help
 
 ---
