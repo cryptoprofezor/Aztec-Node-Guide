@@ -49,8 +49,9 @@ tar clang bsdmainutils ncdu unzip screen ufw -y
 ### 🐳 Install Docker + Docker Compose
 Use our fixed manual installer (even works on Ubuntu 24.04):
 ```bash
-curl -O https://raw.githubusercontent.com/cryptoprofezor/docker/main/install-docker-manual.sh
-chmod +x install-docker-manual.sh && ./install-docker-manual.sh
+curl -O https://raw.githubusercontent.com/cryptoprofezor/docker/main/install-docker.sh
+chmod +x install-docker.sh
+./install-docker.sh
 ```
 
 ---
