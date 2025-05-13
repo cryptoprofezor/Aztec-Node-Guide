@@ -54,6 +54,15 @@ chmod +x install-docker.sh
 ./install-docker.sh
 ```
 
+### Verify Installation
+
+```bash
+docker --version
+docker-compose --version
+sudo systemctl start docker
+sudo systemctl status docker
+```
+
 ---
 
 ## ⚙️ Install Aztec CLI
