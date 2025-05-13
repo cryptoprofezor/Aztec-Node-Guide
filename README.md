@@ -118,7 +118,7 @@ Replace:
 - ✅ `YOUR_BEACON_RPC` with Chainstack or DRPC beacon
 - ✅ Wallet keys and IP
 
-📸 *Add a screenshot of successful node launch here*
+![Screenshot 2025-05-13 172832](https://github.com/user-attachments/assets/8dc4d0a7-2b36-4089-a1b3-9c388dbd6c38)
 
 ---
 
