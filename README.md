@@ -59,8 +59,6 @@ chmod +x install-docker.sh
 ```bash
 docker --version
 docker-compose --version
-sudo systemctl start docker
-sudo systemctl status docker
 ```
 
 ---
