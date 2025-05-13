@@ -127,7 +127,8 @@ Replace:
 - ✅ `YOUR_BEACON_RPC` with Chainstack or DRPC beacon
 - ✅ Wallet keys and IP
 
-![Screenshot 2025-05-13 172832](https://github.com/user-attachments/assets/8dc4d0a7-2b36-4089-a1b3-9c388dbd6c38)
+![Screenshot 2025-05-13 185309](https://github.com/user-attachments/assets/4c999a3e-e059-40ab-9699-c8caae097d56)
+
 
 ---
 
@@ -168,7 +169,8 @@ http://localhost:8080 | jq -r ".result"
 - Type: `/operator start`
 - Fill in: Wallet, Block, Proof
 
-📸 *Add screenshot of successful role assignment*
+![Screenshot 2025-05-13 190313](https://github.com/user-attachments/assets/3e1898ef-28fc-4e77-90e0-8439e30111a1)
+
 
 ---
 
