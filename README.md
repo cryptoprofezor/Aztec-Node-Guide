@@ -4,14 +4,15 @@ This guide will take you from 0 to running a fully working **Aztec Sequencer Nod
 
 ---
 
-## 🖥️ System Requirements
+## 🖥️ System Requirements (Recommended for Sequencer)
 
-| Type         | Recommended Specs     |
+| Type         | Required Specs         |
 |--------------|------------------------|
+| CPU          | 8-core                 |
+| RAM          | 16 GB                  |
+| SSD          | 1 TB                   |
+| Bandwidth    | 25 Mbps up/down        |
 | OS           | Ubuntu 22.04 LTS       |
-| RAM          | 8 GB minimum           |
-| Disk         | 100+ GB SSD            |
-| Bandwidth    | Stable connection      |
 | Access       | Root/Sudo access       |
 
 ---
