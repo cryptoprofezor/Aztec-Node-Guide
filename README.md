@@ -183,7 +183,7 @@ aztec add-l1-validator \
 
 ## 📬 Community & Help
 
-- 📣 Telegram: [t.me/cryptogg](https://t.me/cryptogg)
+- 📣 Telegram: [t.me/cryptogg](https://t.me/Mrcrypto_tamilan)
 - 🐛 Raise a GitHub issue if you need help
 
 ---
