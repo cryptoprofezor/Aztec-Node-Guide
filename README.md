@@ -83,7 +83,7 @@ aztec -h
 
 ## 🧪 Set Up the Testnet
 ```bash
-aztec-up alpha-testnet
+aztec-up 0.85.0-alpha-testnet.9
 ```
 
 ---
